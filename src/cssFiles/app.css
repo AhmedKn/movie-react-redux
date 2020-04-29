@@ -1,0 +1,10 @@
+.movie-section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1128px;
+}
+body{
+    background: linear-gradient(to right, #ad5389, #3c1053); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+display: flex;
+justify-content: center;
+}
